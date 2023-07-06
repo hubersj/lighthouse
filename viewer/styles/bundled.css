@@ -76,7 +76,6 @@ body {
 }
 
 .viewer-placeholder-inner.lh-loading {
-  filter: blur(2px) grayscale(1);
   cursor: wait
 }
 .viewer-placeholder-inner.lh-loading>div {
