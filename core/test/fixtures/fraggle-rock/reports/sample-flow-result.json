@@ -2759,7 +2759,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "render-blocking-resources": {
@@ -2794,7 +2801,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unminified-javascript": {
@@ -2815,7 +2829,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-css-rules": {
@@ -2835,7 +2856,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-javascript": {
@@ -2855,7 +2883,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "modern-image-formats": {
@@ -2876,7 +2911,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-optimized-images": {
@@ -2897,7 +2939,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-text-compression": {
@@ -2917,7 +2966,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-responsive-images": {
@@ -2937,7 +2993,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "efficient-animated-content": {
@@ -2957,7 +3020,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "duplicated-javascript": {
@@ -2977,7 +3047,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "legacy-javascript": {
@@ -3041,7 +3118,14 @@
               "overallSavingsBytes": 57,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "doctype": {
@@ -9736,7 +9820,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unminified-javascript": {
@@ -9757,7 +9848,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-css-rules": {
@@ -9777,7 +9875,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-javascript": {
@@ -9797,7 +9902,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "modern-image-formats": {
@@ -9818,7 +9930,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-optimized-images": {
@@ -9839,7 +9958,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-text-compression": {
@@ -9859,7 +9985,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-responsive-images": {
@@ -9879,7 +10012,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "efficient-animated-content": {
@@ -9899,7 +10039,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "duplicated-javascript": {
@@ -9919,7 +10066,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "legacy-javascript": {
@@ -9939,7 +10093,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "inspector-issues": {
@@ -19581,7 +19742,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "render-blocking-resources": {
@@ -19616,7 +19784,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unminified-javascript": {
@@ -19637,7 +19812,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-css-rules": {
@@ -19657,7 +19839,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "unused-javascript": {
@@ -19677,7 +19866,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "modern-image-formats": {
@@ -19744,7 +19940,14 @@
               "overallSavingsBytes": 68889.75,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 330
+                }
+              }
             }
           },
           "uses-optimized-images": {
@@ -19765,7 +19968,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-text-compression": {
@@ -19785,7 +19995,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "uses-responsive-images": {
@@ -19849,7 +20066,14 @@
               "overallSavingsBytes": 52102,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 300
+                }
+              }
             }
           },
           "efficient-animated-content": {
@@ -19869,7 +20093,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "duplicated-javascript": {
@@ -19889,7 +20120,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "legacy-javascript": {
@@ -19953,7 +20191,14 @@
               "overallSavingsBytes": 0,
               "sortedBy": [
                 "wastedBytes"
-              ]
+              ],
+              "debugData": {
+                "type": "debugdata",
+                "metricSavings": {
+                  "FCP": 0,
+                  "LCP": 0
+                }
+              }
             }
           },
           "doctype": {

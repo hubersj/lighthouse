@@ -517,7 +517,9 @@ class Simulator {
 
     const wastedBits = wastedBytes * 8;
     const wastedMs = wastedBits / bitsPerSecond * 1000;
-    return wastedMs;
+
+    // This is an estimate of wasted time, so we won't be more precise than 10ms.
+    return Math.round(wastedMs / 10) * 10;
   }
 
   /** @return {Map<string, Map<Node, CompleteNodeTiming>>} */

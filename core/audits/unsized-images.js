@@ -154,6 +154,9 @@ class UnsizedImages extends Audit {
       score: unsizedImages.length > 0 ? 0 : 1,
       notApplicable: images.length === 0,
       details: Audit.makeTableDetails(headings, unsizedImages),
+      metricSavings: {
+        CLS: 0,
+      },
     };
   }
 }
